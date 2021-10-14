@@ -1,0 +1,9 @@
+site_name: Iterus.net Documentation
+site_url: https://iterus.net
+copyright: 'Copyright &copy; 2021 Iterus.net'
+theme:
+  name: material
+  font:
+    text: Roboto
+  palette:
+    primary: teal

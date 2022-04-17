@@ -18,3 +18,6 @@ nav:
       - admin/user_accounts.md
     - Users:
       - users/calls.md
+      - users/chat.md
+      - users/popups.md
+      - users/whiteboard.md

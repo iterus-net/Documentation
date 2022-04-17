@@ -1,9 +1,20 @@
 site_name: Iterus.net Documentation
 site_url: https://iterus.net
-copyright: 'Copyright &copy; 2021 Iterus.net'
+copyright: 'Copyright &copy; 2021-2022 Iterus.net'
 theme:
   name: material
   font:
     text: Roboto
   palette:
     primary: teal
+nav:
+  - index.md
+  - Setup:
+    - setup/build.md
+    - setup/deployment.md
+  - Use:
+    - Admin:
+      - admin/permissions.md
+      - admin/user_accounts.md
+    - Users:
+      - users/calls.md

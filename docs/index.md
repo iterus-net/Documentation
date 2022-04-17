@@ -2,9 +2,10 @@
 
 ## Requirements
 
-* OS: Linux/MacOS
-* Docker (and Kubernetes)
+* OS: Linux/MacOS (server)
+* Docker (or Kubernetes)
 * Git
+* Own OIDC server (e.g. Keycloak)
 
 ### Own build
 

@@ -1,6 +1,9 @@
 site_name: Iterus.net Documentation
 site_url: https://iterus.net
 copyright: 'Copyright &copy; 2021-2022 Iterus.net'
+markdown_extensions:
+  - attr_list
+  - md_in_html
 theme:
   name: material
   font:
